@@ -15,7 +15,7 @@ Here some photos so you can see how it looks like.
 
 Download the lastest version of the Theme (.zip or .7zip)
 
-Copy the "3ds_WhiteDefault" folder to `./_pico/themes` in your SD card.
+Copy the "Pkmn_Battle_PerlDiamond" folder to `./_pico/themes` in your SD card.
 
 If PicoLauncher is not already installed, go to <a href="https://sanrax.github.io/flashcart-guides/">the flashcard guides website</a> and find your flashcard among the different setup options.
 
